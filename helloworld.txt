@@ -1,5 +1,5 @@
 git config --global user.name "64070014Jiraroth"
-git config --global user.name "64070014@it.kmitl.ac.th"
+git config --global user.email "64070014@it.kmitl.ac.th"
 
 Token :
 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
