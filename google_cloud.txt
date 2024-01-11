@@ -1,0 +1,12 @@
+ssh-keygen -t rsa -b 2048 -C "g64070014" -f   g64070014_gcp_key
+
+ssh -i g64070014_gcp_key g64070014@34.124.202.44
+
+key gen from file (g64070014_gcp_key) : 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC73xA305kaZsqEEJIX6rkVQRfGtU85VbD5d+E/D3yFoVAeCeqEaDmquPYBNOtnzigq6UsTYTFtIrvVx7FTd/dQbpSS30fYpakXtIlJtjGcw8aPB0C/YVxHXILpCZpD7JV09lwviaYNJebVkVc6jt1Xe9E+XUXnwnvjAlYpgmwi03u2RNiQ91U4hcdcRpKpRWY13KYd63N+Ub1oMhxuHkmu6+R6EUOk+jo2R+mJfJT93GenMDiYoYRYnv45D/Q05IcnJxp0pOiUGBF7GQv+lwjZG3HxzOhq+TvpmdIRCPynpNOMvJwucOn7fGCECmvYXgQUV+t8If4fKRfQDQR7gM/P g64070014
+
+key 1 (public?): 
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBOeg7lX7NNogThkS55Mv4dcLmnJ2GoI6HJruOUNo7me9rialuu49jRwQ2rRTM67nWsta4TkspDhtOnCitxoTlS8= google-ssh {"userName":"64070014@kmitl.ac.th","expireOn":"2024-01-11T07:08:04+0000"}
+
+key 2 (private?):
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAGAk5zzBmkTscjZ6CZg+vvm2JQzPuRG9WfQEyEtTFv4W0kf+4PfuFTPiXR+24HmCWWVTEJVed0aSUWJOeKZ5d30Wf77MJb4rsaH213fZjQnyK9XwkjC1bSTCpsdDJ9yTkTVelFVv/upUBMdl/o/nl7YbtcMdfEcbxKlXUIV91xvZZLQgu6vSUf0vPf2eEeGuO77t6QimxdkOgy7Ierbud5zb7ez8xgP0Vqn5eT1tmwTg5LyYnufqcZajqSKbHb9nKTv9B9EHFgMv2/SBy5o+mFkFbjtbo5Zie/3aTVrAvQsWENQisI5BMXHnWYrHWEePmJyDI7jEzSf5ZlT6XiaE6rM= google-ssh {"userName":"64070014@kmitl.ac.th","expireOn":"2024-01-11T07:08:19+0000"}
